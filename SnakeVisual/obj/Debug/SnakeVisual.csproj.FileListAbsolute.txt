@@ -1,0 +1,101 @@
+D:\Proyectos\SnakeVisual\obj\Debug\SnakeVisual.csprojAssemblyReference.cache
+D:\Proyectos\SnakeVisual\bin\Debug\SnakeVisual.exe.config
+D:\Proyectos\SnakeVisual\bin\Debug\SnakeVisual.exe
+D:\Proyectos\SnakeVisual\bin\Debug\SnakeVisual.pdb
+D:\Proyectos\SnakeVisual\obj\Debug\SnakeVisual.SnakeApp.resources
+D:\Proyectos\SnakeVisual\obj\Debug\SnakeVisual.Properties.Resources.resources
+D:\Proyectos\SnakeVisual\obj\Debug\SnakeVisual.csproj.GenerateResource.cache
+D:\Proyectos\SnakeVisual\obj\Debug\SnakeVisual.csproj.CoreCompileInputs.cache
+D:\Proyectos\SnakeVisual\obj\Debug\SnakeVisual.exe
+D:\Proyectos\SnakeVisual\obj\Debug\SnakeVisual.pdb
+D:\Proyectos\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppCrear.resources
+D:\Proyectos\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppJugar.resources
+D:\Proyectos\SnakeVisual\bin\Debug\Mundo.dll
+D:\Proyectos\SnakeVisual\bin\Debug\Mundo.pdb
+D:\Proyectos\SnakeVisual\obj\Debug\SnakeVisual.csproj.CopyComplete
+D:\Proyecto\SnakeVisual\bin\Debug\SnakeVisual.exe.config
+D:\Proyecto\SnakeVisual\bin\Debug\SnakeVisual.exe
+D:\Proyecto\SnakeVisual\bin\Debug\SnakeVisual.pdb
+D:\Proyecto\SnakeVisual\bin\Debug\Mundo.dll
+D:\Proyecto\SnakeVisual\bin\Debug\Mundo.pdb
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.csprojAssemblyReference.cache
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.SnakeApp.resources
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppCrear.resources
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.Properties.Resources.resources
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.csproj.GenerateResource.cache
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.csproj.CoreCompileInputs.cache
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.csproj.CopyComplete
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.exe
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.pdb
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppNivel.resources
+D:\Proyecto\SnakeVisual\obj\Debug\Interop.Accessibility.dll
+D:\Proyecto\SnakeVisual\obj\Debug\SnakeVisual.csproj.ResolveComReference.cache
+D:\Snake Project\SnakeVisual\bin\Debug\SnakeVisual.exe.config
+D:\Snake Project\SnakeVisual\bin\Debug\SnakeVisual.exe
+D:\Snake Project\SnakeVisual\bin\Debug\SnakeVisual.pdb
+D:\Snake Project\SnakeVisual\bin\Debug\Mundo.dll
+D:\Snake Project\SnakeVisual\bin\Debug\Mundo.pdb
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.csprojAssemblyReference.cache
+D:\Snake Project\SnakeVisual\obj\Debug\Interop.Accessibility.dll
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.csproj.ResolveComReference.cache
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.SnakeApp.resources
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppCrear.resources
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppNivel.resources
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.Properties.Resources.resources
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.csproj.GenerateResource.cache
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.csproj.CoreCompileInputs.cache
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.csproj.CopyComplete
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.exe
+D:\Snake Project\SnakeVisual\obj\Debug\SnakeVisual.pdb
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\SnakeVisual.exe.config
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\SnakeVisual.exe
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\SnakeVisual.pdb
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\Mundo.dll
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\Mundo.pdb
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csprojAssemblyReference.cache
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\Interop.Accessibility.dll
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.ResolveComReference.cache
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.SnakeApp.resources
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppCrear.resources
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppNivel.resources
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.Properties.Resources.resources
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.GenerateResource.cache
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.CoreCompileInputs.cache
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.CopyComplete
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.exe
+D:\Snake Project\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\SnakeVisual.exe.config
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\SnakeVisual.exe
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\SnakeVisual.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\Mundo.dll
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\Mundo.pdb
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csprojAssemblyReference.cache
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\Interop.Accessibility.dll
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.ResolveComReference.cache
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.SnakeApp.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppCrear.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppNivel.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.Properties.Resources.resources
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.GenerateResource.cache
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.CoreCompileInputs.cache
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.CopyComplete
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.exe
+D:\Escuela\Ciencia de la Computación\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.pdb
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\SnakeVisual.exe.config
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\SnakeVisual.exe
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\SnakeVisual.pdb
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\Mundo.dll
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\bin\Debug\Mundo.pdb
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.AssemblyReference.cache
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.SuggestedBindingRedirects.cache
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\Interop.Accessibility.dll
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.ResolveComReference.cache
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.SnakeApp.resources
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppCrear.resources
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.SnakeAppNivel.resources
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.Properties.Resources.resources
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.GenerateResource.cache
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.CoreCompileInputs.cache
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.csproj.CopyComplete
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.exe
+D:\Escuela\1er Año\Programación\Examen 2019-2020\Proyecto I. Snake\C111 Jordan Pla Gonzalez\SnakeVisual\obj\Debug\SnakeVisual.pdb
