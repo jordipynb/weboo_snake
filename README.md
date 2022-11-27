@@ -1,3 +1,3 @@
-# WebooSnake
-El clásico juego interactivo de la serpiente que come y crece con algunas características particulares del problema.  
-Para más detaller leer Proyecto Weboo Snake.pdf
+# Weboo Snake
+The classic interactive game of the snake that eats and grows with some particular features of the problem.  
+For more details read Project Weboo Snake.pdf
